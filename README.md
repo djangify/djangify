@@ -1,16 +1,19 @@
-## Hi there 👋
+[![GitHub Header](https://github.com/djangify/djangify/blob/main/djangify-logo-header-github.png)](https://github.com/djangify/djangify/blob/main/djangify-logo-header-github.png)
+<br>
 
-<!--
-**djangify/djangify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, Djangify is a new start up that has been around for a while!
+- ⚡ Run by a qualified Full-Stack Software Developer with a specialization in eCommerce.
+- 👀 A new direction and focus from WordPress only to Django and Wagtail for eCommerce and Learning Management Systems
+- 👯 Happy to collaborate on projects - bringing together other developers to bid for work
+- 🌱 Interested in open Source projects, Hackathons and anything related to women in tech
+- :point_up_2: Also using Flask and AI to build chatbots
+- ✍️ Writing and more at [Djangify](https://djangify.com)
+- 📫 Contact me at @djangify.com
 
-Here are some ideas to get you started:
+# Django and Wagtail for (eCommerce)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am 
+<br/>
+<br>
+
+

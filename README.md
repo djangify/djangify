@@ -12,8 +12,10 @@
 
 # Django and Wagtail for (eCommerce)
 
-I am 
-<br/>
+Here at Djangify we mainly build eCommerce stores for customers looking to sell their products/services and learning management systems (LMS) for professionals looking to sell courses online. 
 <br>
+Yes, we can build a website for you if you want one, but eCommerce and LMS is where we specialise.
+<br/>
+
 
 

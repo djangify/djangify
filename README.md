@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @djangify
-- 👀 I’m interested in Django, Django Rest Framework, Flask, FastAPI and AI related info
+- 👀 I’m interested in Django, Django REST Framework, Flask, FastAPI and AI related info
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on projects that involve Django
 - 📫 How to reach me via my website at https://www.djangify.com

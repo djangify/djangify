@@ -42,6 +42,6 @@ Qualified Full Stack Software Developer. I focus more on working with Python, Dj
 
 ---
 
-[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=todiane&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/todiane)
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=djangify&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/djangify)
 
 ---

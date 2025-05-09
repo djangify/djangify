@@ -6,6 +6,14 @@
 - 😄 Projects - Some of my projects include https://www.streamenglish.co.uk and https://penandipublishing.co.uk 
 - ⚡ Fun fact: I got into coding far too late! Ran a business setting up WordPress websites for over 10 years before retraining and focusing on Django.
 
+## Favourite tools to build with in order of preference
+
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+
 <!---
 djangify/djangify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

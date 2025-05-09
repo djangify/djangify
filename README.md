@@ -32,7 +32,7 @@ Qualified Full Stack Software Developer. I focus more on working with Python, Dj
 
 | Project | Concepts | Objectives |
 | :------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AI Marketing Platform** ([Code](https://github.com/djangify/ai-marketing2) • [Live](https://www.aimarketingplatform.app)) | Django · DRF · MariaDB · Tailwind CSS · TypeScript | A full-stack AI-driven marketing platform offering campaign automation, analytics dashboards, and dynamic content generation. |
+| **AI Marketing Platform** ([Code](https://github.com/djangify/ai-marketing2) • [Live](https://www.aimarketingplatform.app)) | Django · DRF · MariaDB · Tailwind CSS · TypeScript | A full-stack AI-driven marketing platform offering  dynamic content generation and repurposing. |
 | **Corrison Headless E-commerce & CMS Backend** ([Code](https://github.com/djangify/corrison)) | Django · DRF · MariaDB · Tailwind CSS · TypeScript | A decoupled, API-first backend powering e-commerce storefronts and content management. |
 | **Stream English** ([Live](https://streamenglish.co.uk) • [Code](https://github.com/todiane/stream)) | Django · MySQL | A bespoke LMS with integrated shop and blog, enabling English tutors to publish video lessons and sell resources. |
 | **News Aggregator** ([Live](https://news.djangify.com/) • [Code](https://github.com/djangify/news)) | Django · Tailwind CSS · MySQL | Consolidates newsletters and RSS feeds into a single dashboard to streamline my daily reading. |

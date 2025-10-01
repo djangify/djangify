@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @djangify
-- 👀 I’m a full-stack software developer (eCommerce) and Tech Virtual Assistant. I build sites using Django, Django REST Framework, Flask, Tailwind CSS and AI 
+- 👀 I’m a full-stack software developer (eCommerce). I work as a Digital Marketing Specialist. I build sites using Django, Django REST Framework, Tailwind CSS and AI 
 - 🌱 I’m currently learning cloud computing. Interested in building AI Agents and learning about AI, Machine Learning, RAG, Large Language Models and Prompt Engineering
 - 💞️ I’m looking to collaborate on projects that involve Django
 - 📫 How to reach me via my website at https://www.djangify.com

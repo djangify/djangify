@@ -32,12 +32,15 @@ Qualified Full Stack Software Developer. I focus more on working with Python, Dj
 
 | Project | Concepts | Objectives |
 | :------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AI Marketing Platform** ([Code](https://github.com/djangify/aimarketing) • [Live](https://www.aimarketingplatform.app)) | Django · DRF · PostgreSQL· Tailwind CSS · TypeScript | A full-stack AI-driven marketing platform offering  dynamic content generation and repurposing. |
+| **To Diane** ([Code](https://github.com/djangify/todiane) • [Live](https://www.todiane.com)) | Django · PostgreSQL· Tailwind CSS ·  | My Portfolio site as a full-stack Django developer and creator of Micro-eCommerce site builder. |
+| **Djangify** ([Code](https://github.com/djangify/djangify-site) • [Live](https://www.djangify.com)) | Django · DRF · PostgreSQL· Tailwind CSS · | eCommerce shop for digital products related to online marketing. Also sell eCommerce Site Builder services |
 | **Stream English** ([Live](https://streamenglish.co.uk) • [Code](https://github.com/todiane/stream)) | Django · MySQL | A bespoke LMS with integrated shop and blog, enabling English tutor to publish her video lessons and sell resources. |
 | **Inspirational Guidance** ([Live](https://inspirationalguidance.com) • [Code](https://github.com/djangify/inspirational)) | Django · Tailwind CSS · PostgreSQL | Personal Development site for women. Has full CRUD and a shop / blog built using Django. Authentication and verification |
 | **Poster Palace (E-Commerce)** ([Live](https://poster-palace-production.up.railway.app/) • [Code](https://github.com/todiane/poster-palace)) | Django · MySQL · Stripe | An online poster store featuring product management, shopping cart flows, and secure Stripe checkouts. |
 | **Project Tracker** ([Live](https://tracker.djangify.com/) • ([Code](https://github.com/djangify/project_tracker)) | Django · DRF · JavaScript · CSS3 · HTML5 | Tracks tasks and milestones across multiple projects with a clean, RESTful API backend. |
 | **Pen And I Publishing** ([Live](https://penandipublishing.co.uk) • [Code](https://github.com/djangify/pen)) | Django · DRF · Tailwind CSS · PostgreSQL | A storefront for paperback notebooks paired with a writing-prompt generator to inspire anyone interested in journal prompts and memoir writing. |
+| **Zestizm** ([Live](https://zestizm.com) • [Code](https://github.com/djangify/zestizm)) | Django · DRF · Tailwind CSS · PostgreSQL | eCommerce shop built using eCommerce Site Builder. Displays one product |
+| **Circles** ([Live](https://circles.todiane.com) • no code | psj 5 | A relaxing site using creative coding |
 
 ---
 

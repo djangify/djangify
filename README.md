@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cloud computing. Interested in building AI Agents and learning about AI, Machine Learning, RAG, Large Language Models and Prompt Engineering
 - 💞️ I’m looking to collaborate on projects that involve Django
 - 📫 How to reach me via my website at https://www.djangify.com
-- 😄 Projects - Some of my projects include https://www.streamenglish.co.uk and https://penandipublishing.co.uk 
+- 😄 Projects - Some of my projects include my Django eCommerce builder and Admin Theme -  https://djangify.com and https://adminita.todiane.com 
 - ⚡ Fun fact: I got into coding far too late! Ran a business setting up WordPress websites for over 10 years before retraining and focusing on Django.
 
 ## Favourite tools to build with in order of preference
@@ -33,7 +33,7 @@ Qualified Full Stack Software Developer. I focus more on working with Python, Dj
 | Project | Concepts | Objectives |
 | :------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **To Diane** ([Code](https://github.com/djangify/todiane) • [Live](https://www.todiane.com)) | Django · PostgreSQL· Tailwind CSS ·  | My Portfolio site as a full-stack Django developer and creator of Micro-eCommerce site builder. |
-| **Djangify** ([Code](https://github.com/djangify/djangify-site) • [Live](https://www.djangify.com)) | Django · DRF · PostgreSQL· Tailwind CSS · | eCommerce shop for digital products related to online marketing. Also sell eCommerce Site Builder services |
+| **Djangify** ([Code](https://github.com/djangify/djangify-site) • [Live](https://www.djangify.com)) | Django · PostgreSQL· Tailwind CSS · | eCommerce builder for digital products. Also promotes Django Theme Adminita |
 | **Stream English** ([Live](https://streamenglish.co.uk) • [Code](https://github.com/todiane/stream)) | Django · MySQL | A bespoke LMS with integrated shop and blog, enabling English tutor to publish her video lessons and sell resources. |
 | **Inspirational Guidance** ([Live](https://inspirationalguidance.com) • [Code](https://github.com/djangify/inspirational)) | Django · Tailwind CSS · PostgreSQL | Personal Development site for women. Has full CRUD and a shop / blog built using Django. Authentication and verification |
 | **Poster Palace (E-Commerce)** ([Live](https://poster-palace-production.up.railway.app/) • [Code](https://github.com/todiane/poster-palace)) | Django · MySQL · Stripe | An online poster store featuring product management, shopping cart flows, and secure Stripe checkouts. |

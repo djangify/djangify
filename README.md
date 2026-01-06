@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Full-Stack Software Developer (eCommerce)
+# Django Developer 
 <br>
-Qualified Full Stack Software Developer. I focus more on working with Python, Django, database management etc. Studied AI Fundamentals with DataCamp.  
+Qualified Full Stack Software Developer (eCommerce). I focus more on working with Python, Django, Flask, database management etc. 
 <br/>
-https://github.com/djangify/mtdify
+
 # My Work
 
 | Project | Concepts | Objectives |

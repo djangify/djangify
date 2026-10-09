@@ -37,7 +37,7 @@ Qualified Full Stack Software Developer (eCommerce). I focus more on working wit
 | **Invoice Generator** ([Code](https://github.com/djangify/invoice-generator) • [Live](https://www.todiane.com/invoice-generator)) | Django · SQLite3· Tailwind CSS ·  | Use this invoice generator to create and send professional invoices while also tracking them. |
 | **Stream English** ([Live](https://streamenglish.co.uk) • [Code](https://github.com/todiane/stream)) | Django · PostgreSQL . Stripe | A bespoke LMS with integrated shop and blog, enabling English tutor to publish her video lessons and sell resources. |
 | **Inspirational Guidance** ([Live](https://inspirationalguidance.com) • [Code](https://github.com/djangify/inspirational)) | Django · Tailwind CSS · PostgreSQL . Stripe| Personal Development site for women. Has full CRUD and a shop / blog built using Django. Authentication and verification |
-| **Project Tracker** ([Live](https://tracker.djangify.com/) • ([Code](https://github.com/djangify/project_tracker)) | Django · DRF · JavaScript · CSS3 · HTML5 | Tracks tasks and milestones across multiple projects with a clean, RESTful API backend. |
+| **Project Tracker** ( ([Code](https://github.com/djangify/project_tracker)) | Django · DRF · JavaScript · CSS3 · HTML5 | Old Project. Tracks tasks and milestones across multiple projects with a clean, RESTful API backend. |
 | **Self-Talk Effect** ([Live](https://www.selftalkeffect.com) • [Code](https://github.com/djangify/)) | Django · DRF · Tailwind CSS · PostgreSQL | eCommerce shop built using the Djangify eCommerce  Builder. |
 | **Circles** ([Live](https://circles.todiane.com) • no code | psj 5 | A relaxing site using creative coding |
 

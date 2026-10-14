@@ -2,7 +2,7 @@
 - 👀 I’m a Django Developer - full-stack software developer (eCommerce). Helping businesses reduce subscription fatigure through software they actually own.
 - 🌱 Interested in self-hosting, open-source, local-first applications. 
 - 💞️ I’m looking to collaborate on projects that involve Django
-- 📫 How to reach me via my website at https://www.todiane.com
+- 📫 How to reach me via my website at https://www.dianecorriette.com
 - 😄 Projects - Some of my projects include my Django eCommerce builder and Admin Theme 
 - ⚡ Fun fact: I got into coding far too late! Ran a business setting up WordPress websites for over 10 years before retraining and focusing on Django.
 
@@ -30,14 +30,14 @@ Qualified Full Stack Software Developer (eCommerce). I focus more on working wit
 
 | Project | Concepts | Objectives |
 | :------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **To Diane** ([Code](https://github.com/djangify/todiane) • [Live](https://www.todiane.com)) | Django · PostgreSQL· Tailwind CSS ·  | My Portfolio site as a full-stack Django developer and creator of Micro-eCommerce site builder. |
+| **To Diane** ([Code](https://github.com/djangify/todiane) • [Live](https://www.dianecorriette.com)) | Django · PostgreSQL· Tailwind CSS ·  | My Portfolio site as a full-stack Django developer and creator of Micro-eCommerce site builder. |
 | **Djangify** ([Code](https://github.com/djangify/djangify-site) • [Live](https://www.djangify.com)) | Django · SQLite3· Tailwind CSS · Stripe| eCommerce builder for selling digital products. Self-hosted or managed. Full ownership (self-hosted version) and privacy. Own your data and customers. Also promotes Django Theme Adminita |
-| **Adminita** ([Code](https://github.com/djangify/adminita) • [Live](https://adminita.todiane.com)) | Django · SQLite3· Tailwind CSS ·  | Modern Django Admin Theme. Designed to be lightweight and easy to install. |
-| **Desk Ledger** ([Code](https://github.com/djangify/deskledger) • [Live](https://www.todiane.com/deskledger)) | Django · SQLite3· Tailwind CSS ·  | Manage Transactions Daily. Bookkeeping software for UK professionals. Use in local development or self-host. Privacy and independent software. |
-| **Invoice Generator** ([Code](https://github.com/djangify/invoice-generator) • [Live](https://www.todiane.com/invoice-generator)) | Django · SQLite3· Tailwind CSS ·  | Use this invoice generator to create and send professional invoices while also tracking them. |
+| **Adminita** ([Code](https://github.com/djangify/adminita) • [Live](https://www.dianecorriette.com/shop/product/adminita-django-admin-theme/) • [Demo](https://adminita.todiane.com)) | Django · SQLite3· Tailwind CSS ·  | Modern Django Admin Theme. Designed to be lightweight and easy to install. |
+| **Desk Ledger** ([Code](https://github.com/todiane/deskledger) • [Live](https://www.dianecorriette.com/shop/product/desk-ledger-bookkeeping-software/)) | Django · SQLite3· Tailwind CSS ·  | Manage Transactions Daily. Bookkeeping software for UK professionals. Use in local development or self-host. Privacy and independent software. |
+| **Invoice Generator** ([Code](https://github.com/todiane/invoice-generator) • [Live](https://www.dianecorriette.com/shop/product/invoice-generator-software/)) | Django · SQLite3· Tailwind CSS ·  | Use this invoice generator to create and send professional invoices while also tracking them. |
 | **Stream English** ([Live](https://streamenglish.co.uk) • [Code](https://github.com/todiane/stream)) | Django · PostgreSQL . Stripe | A bespoke LMS with integrated shop and blog, enabling English tutor to publish her video lessons and sell resources. |
-| **Inspirational Guidance** ([Live](https://inspirationalguidance.com) • [Code](https://github.com/djangify/inspirational)) | Django · Tailwind CSS · PostgreSQL . Stripe| Personal Development site for women. Has full CRUD and a shop / blog built using Django. Authentication and verification |
-| **Project Tracker** ( ([Code](https://github.com/djangify/project_tracker)) | Django · DRF · JavaScript · CSS3 · HTML5 | Old Project. Tracks tasks and milestones across multiple projects with a clean, RESTful API backend. |
+| **Inspirational Guidance** ([Live](https://inspirationalguidance.com) • [Code](https://github.com/todiane/inspirational)) | Django · Tailwind CSS · PostgreSQL . Stripe| Personal Development site for women. Has full CRUD and a shop / blog built using Django. Authentication and verification |
+| **Project Tracker** ( ([Code](https://github.com/todiane/project_tracker)) | Django · DRF · JavaScript · CSS3 · HTML5 | Old Project. Tracks tasks and milestones across multiple projects with a clean, RESTful API backend. |
 | **Self-Talk Effect** ([Live](https://www.selftalkeffect.com) • [Code](https://github.com/djangify/)) | Django · DRF · Tailwind CSS · PostgreSQL | eCommerce shop built using the Djangify eCommerce  Builder. |
 | **Circles** ([Live](https://circles.todiane.com) • no code | psj 5 | A relaxing site using creative coding |
 
